@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Business Consulting",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.",
+    "icon": "icon-autorenew"
+  },
+  {
+    "title": "Market Analysis",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.",
+    "icon": "icon-store_mall_directory"
+  },
+  {
+    "title": "User Monitoring",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.",
+    "icon": "icon-shopping_basket"
+  },
+  {
+    "title": "Insurance Consulting",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.",
+    "icon": "icon-settings_backup_restore"
+  },
+  {
+    "title": "Customer Satistified",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.",
+    "icon": "icon-sentiment_satisfied"
+  },
+  {
+    "title": "Plug & Play",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.",
+    "icon": "icon-power "
+  }
+]
